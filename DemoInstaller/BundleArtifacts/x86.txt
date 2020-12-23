@@ -1,0 +1,2 @@
+MainPackage=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x86\Release\DemoInstaller_1.0.2.0_x86.msix
+SymbolPackage=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\obj\x86\Release\Symbols\DemoInstaller_1.0.2.0_x86.appxsym

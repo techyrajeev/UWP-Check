@@ -1,0 +1,6 @@
+MainPackage=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x64\Release\DemoInstaller_1.0.2.0_x64.msix
+SymbolPackage=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\obj\x64\Release\Symbols\DemoInstaller_1.0.2.0_x64.appxsym
+ResourcePack=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x64\Release\DemoInstaller_1.0.2.0_scale-100.msix
+ResourcePack=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x64\Release\DemoInstaller_1.0.2.0_scale-125.msix
+ResourcePack=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x64\Release\DemoInstaller_1.0.2.0_scale-150.msix
+ResourcePack=C:\Users\me\source\repos\InstallerDemo\DemoInstaller\bin\x64\Release\DemoInstaller_1.0.2.0_scale-400.msix
